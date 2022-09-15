@@ -1,1 +1,1 @@
-console.writeLine
+console.writeLine();
